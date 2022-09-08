@@ -7,9 +7,9 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>37</bbox_left>
+  <bbox_left>65</bbox_left>
   <bbox_right>310</bbox_right>
-  <bbox_top>3</bbox_top>
+  <bbox_top>69</bbox_top>
   <bbox_bottom>317</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
@@ -100,25 +100,5 @@
     <frame index="77">images\sprite11_77.png</frame>
     <frame index="78">images\sprite11_78.png</frame>
     <frame index="79">images\sprite11_79.png</frame>
-    <frame index="80">images\sprite11_80.png</frame>
-    <frame index="81">images\sprite11_81.png</frame>
-    <frame index="82">images\sprite11_82.png</frame>
-    <frame index="83">images\sprite11_83.png</frame>
-    <frame index="84">images\sprite11_84.png</frame>
-    <frame index="85">images\sprite11_85.png</frame>
-    <frame index="86">images\sprite11_86.png</frame>
-    <frame index="87">images\sprite11_87.png</frame>
-    <frame index="88">images\sprite11_88.png</frame>
-    <frame index="89">images\sprite11_89.png</frame>
-    <frame index="90">images\sprite11_90.png</frame>
-    <frame index="91">images\sprite11_91.png</frame>
-    <frame index="92">images\sprite11_92.png</frame>
-    <frame index="93">images\sprite11_93.png</frame>
-    <frame index="94">images\sprite11_94.png</frame>
-    <frame index="95">images\sprite11_95.png</frame>
-    <frame index="96">images\sprite11_96.png</frame>
-    <frame index="97">images\sprite11_97.png</frame>
-    <frame index="98">images\sprite11_98.png</frame>
-    <frame index="99">images\sprite11_99.png</frame>
   </frames>
 </sprite>
