@@ -85,6 +85,104 @@
         <sprite>sprites\Fire</sprite>
         <sprite>sprites\Bite</sprite>
       </sprites>
+      <sprites name="Architect">
+        <sprite>sprites\Standing10</sprite>
+        <sprite>sprites\Fightstarts3</sprite>
+        <sprite>sprites\Walking10</sprite>
+        <sprite>sprites\Casting4</sprite>
+      </sprites>
+    </sprites>
+    <sprites name="Location4">
+      <sprites name="Enemy1">
+        <sprite>sprites\Standing11</sprite>
+        <sprite>sprites\Walking11</sprite>
+        <sprite>sprites\Attacker11</sprite>
+        <sprite>sprites\Howl</sprite>
+      </sprites>
+      <sprites name="Enemy2">
+        <sprite>sprites\Standing12</sprite>
+        <sprite>sprites\Crowling</sprite>
+        <sprite>sprites\Summoning</sprite>
+        <sprite>sprites\Spawning</sprite>
+      </sprites>
+      <sprites name="Enemy3">
+        <sprite>sprites\Turret</sprite>
+        <sprite>sprites\Detected1</sprite>
+        <sprite>sprites\Rocket</sprite>
+        <sprite>sprites\Sensor</sprite>
+      </sprites>
+      <sprites name="miniboss">
+        <sprite>sprites\Standing13</sprite>
+        <sprite>sprites\Flying2</sprite>
+        <sprite>sprites\Attacker13</sprite>
+        <sprite>sprites\Projectile4</sprite>
+        <sprite>sprites\Lamp</sprite>
+        <sprite>sprites\Brokenlamp</sprite>
+      </sprites>
+      <sprites name="Architect">
+        <sprites name="ElementalR">
+          <sprite>sprites\Chilling1</sprite>
+          <sprite>sprites\Casting14</sprite>
+        </sprites>
+        <sprites name="ElementalG">
+          <sprite>sprites\Chilling2</sprite>
+          <sprite>sprites\Casting15</sprite>
+        </sprites>
+        <sprites name="ElementalB">
+          <sprite>sprites\Chilling3</sprite>
+          <sprite>sprites\Casting16</sprite>
+        </sprites>
+        <sprite>sprites\Standing14</sprite>
+        <sprite>sprites\Fightstarts4</sprite>
+        <sprite>sprites\Walking14</sprite>
+        <sprite>sprites\Casting17</sprite>
+      </sprites>
+    </sprites>
+    <sprites name="Location4">
+      <sprites name="Enemy1">
+        <sprite>sprites\Feathered</sprite>
+        <sprite>sprites\Feather</sprite>
+      </sprites>
+      <sprites name="Enemy2">
+        <sprite>sprites\Sleeping</sprite>
+        <sprite>sprites\Attacker15</sprite>
+        <sprite>sprites\Projectile15</sprite>
+        <sprite>sprites\Burst</sprite>
+        <sprite>sprites\Liquid</sprite>
+      </sprites>
+      <sprites name="Enemy3">
+        <sprite>sprites\Standing18</sprite>
+        <sprite>sprites\Flying4</sprite>
+        <sprite>sprites\Casting18</sprite>
+        <sprite>sprites\Pillar</sprite>
+      </sprites>
+      <sprites name="miniboss">
+        <sprite>sprites\Starting</sprite>
+        <sprite>sprites\Existing</sprite>
+      </sprites>
+      <sprites name="Architect">
+        <sprite>sprites\Standing19</sprite>
+        <sprite>sprites\Fightstarts5</sprite>
+        <sprite>sprites\Walking19</sprite>
+        <sprite>sprites\Casting19</sprite>
+      </sprites>
+    </sprites>
+    <sprites name="Erin">
+      <sprite>sprites\Standing20</sprite>
+      <sprite>sprites\Fightstarts6</sprite>
+      <sprite>sprites\Walking20</sprite>
+      <sprite>sprites\Heavycasting</sprite>
+      <sprite>sprites\Casting20</sprite>
+    </sprites>
+    <sprites name="RYS">
+      <sprite>sprites\Standing21</sprite>
+      <sprite>sprites\Heh</sprite>
+      <sprite>sprites\Pathetic</sprite>
+      <sprite>sprites\Angryhappy</sprite>
+      <sprite>sprites\Asking</sprite>
+      <sprite>sprites\Wheels</sprite>
+      <sprite>sprites\Riding</sprite>
+      <sprite>sprites\Casting21</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
