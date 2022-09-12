@@ -6,23 +6,86 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprites name="group">
-      <sprite>sprites\sprite14</sprite>
-      <sprite>sprites\sprite15</sprite>
-      <sprite>sprites\sprite16</sprite>
+    <sprite>sprites\Standing1</sprite>
+    <sprite>sprites\Running1</sprite>
+    <sprite>sprites\Casting1</sprite>
+    <sprites name="Location1">
+      <sprites name="Enemy1">
+        <sprite>sprites\Standing2</sprite>
+        <sprite>sprites\Walking</sprite>
+        <sprite>sprites\Attacker1</sprite>
+      </sprites>
+      <sprites name="Enemy 2">
+        <sprite>sprites\Front</sprite>
+        <sprite>sprites\Profile</sprite>
+      </sprites>
+      <sprites name="Enemy3">
+        <sprite>sprites\Standing3</sprite>
+        <sprite>sprites\Attacker2</sprite>
+        <sprite>sprites\Running2</sprite>
+        <sprite>sprites\Projectile</sprite>
+      </sprites>
+      <sprites name="Architect">
+        <sprites name="Soldier">
+          <sprite>sprites\Standing</sprite>
+          <sprite>sprites\Waliking2</sprite>
+          <sprite>sprites\Attacker3</sprite>
+        </sprites>
+        <sprite>sprites\Standing4</sprite>
+        <sprite>sprites\Fightstarts1</sprite>
+        <sprite>sprites\Walking3</sprite>
+        <sprite>sprites\Attacker4</sprite>
+        <sprite>sprites\Projectile2</sprite>
+      </sprites>
+      <sprites name="miniboss">
+        <sprite>sprites\Body</sprite>
+        <sprite>sprites\Arm</sprite>
+        <sprite>sprites\Fist</sprite>
+        <sprite>sprites\Attacker5</sprite>
+        <sprite>sprites\Projectile3</sprite>
+      </sprites>
     </sprites>
-    <sprite>sprites\sprite0</sprite>
-    <sprite>sprites\sprite3</sprite>
-    <sprite>sprites\sprite4</sprite>
-    <sprite>sprites\sprite5</sprite>
-    <sprite>sprites\sprite6</sprite>
-    <sprite>sprites\sprite7</sprite>
-    <sprite>sprites\sprite8</sprite>
-    <sprite>sprites\sprite9</sprite>
-    <sprite>sprites\sprite10</sprite>
-    <sprite>sprites\sprite11</sprite>
-    <sprite>sprites\sprite12</sprite>
-    <sprite>sprites\sprite13</sprite>
+    <sprites name="Location2">
+      <sprites name="Enemy1">
+        <sprite>sprites\Flying</sprite>
+        <sprite>sprites\Diving</sprite>
+      </sprites>
+      <sprites name="Enemy2">
+        <sprite>sprites\Ankylosaurus</sprite>
+      </sprites>
+      <sprites name="Enemy3">
+        <sprite>sprites\Walking5</sprite>
+        <sprite>sprites\Ramming</sprite>
+      </sprites>
+      <sprites name="miniboss">
+        <sprite>sprites\Standing6</sprite>
+        <sprite>sprites\Walking6</sprite>
+        <sprite>sprites\Casting2</sprite>
+      </sprites>
+      <sprites name="Architect">
+        <sprite>sprites\Standing7</sprite>
+        <sprite>sprites\Fightstarts2</sprite>
+        <sprite>sprites\Walking7</sprite>
+        <sprite>sprites\Casting3</sprite>
+        <sprite>sprites\Holding</sprite>
+      </sprites>
+    </sprites>
+    <sprites name="Location3">
+      <sprites name="Enemy1">
+        <sprite>sprites\Walking8</sprite>
+        <sprite>sprites\Tail</sprite>
+      </sprites>
+      <sprites name="Enemy2">
+        <sprite>sprites\Standing9</sprite>
+        <sprite>sprites\Attacker9</sprite>
+        <sprite>sprites\Jumping2</sprite>
+      </sprites>
+      <sprites name="Enemy3">
+        <sprite>sprites\Fin</sprite>
+        <sprite>sprites\Fire</sprite>
+        <sprite>sprites\Bite</sprite>
+      </sprites>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
