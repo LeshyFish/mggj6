@@ -215,6 +215,22 @@
         <sprite>sprites\Edge1</sprite>
         <sprite>sprites\Edge2</sprite>
       </sprites>
+      <sprites name="L3">
+        <sprite>sprites\Edge3</sprite>
+        <sprite>sprites\Floor3</sprite>
+        <sprite>sprites\Frontwall6</sprite>
+        <sprite>sprites\Frontwall7</sprite>
+      </sprites>
+      <sprites name="L4">
+        <sprite>sprites\Floor4</sprite>
+        <sprite>sprites\Floor5</sprite>
+        <sprite>sprites\Floor6</sprite>
+        <sprite>sprites\Floor7</sprite>
+        <sprite>sprites\Edge4</sprite>
+        <sprite>sprites\Frontwall8</sprite>
+        <sprite>sprites\Frontwall9</sprite>
+        <sprite>sprites\Frontwall10</sprite>
+      </sprites>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
