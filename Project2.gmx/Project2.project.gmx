@@ -231,7 +231,12 @@
         <sprite>sprites\Frontwall9</sprite>
         <sprite>sprites\Frontwall10</sprite>
       </sprites>
+      <sprites name="L5">
+        <sprite>sprites\Wall</sprite>
+        <sprite>sprites\Ground</sprite>
+      </sprites>
     </sprites>
+    <sprite>sprites\sprite143</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
