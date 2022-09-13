@@ -184,9 +184,43 @@
       <sprite>sprites\Riding</sprite>
       <sprite>sprites\Casting21</sprite>
     </sprites>
+    <sprites name="Backgrounds">
+      <sprites name="Portal">
+        <sprite>sprites\Spawning2</sprite>
+        <sprites name="Room">
+          <sprite>sprites\Room</sprite>
+        </sprites>
+        <sprites name="Boss">
+          <sprite>sprites\Boss</sprite>
+        </sprites>
+        <sprites name="Shop">
+          <sprite>sprites\Shop</sprite>
+        </sprites>
+        <sprites name="Level">
+          <sprite>sprites\Level</sprite>
+        </sprites>
+      </sprites>
+      <sprites name="L1">
+        <sprite>sprites\Edge</sprite>
+        <sprite>sprites\Floor</sprite>
+        <sprite>sprites\Frontwall1</sprite>
+        <sprite>sprites\Frontwall2</sprite>
+      </sprites>
+      <sprites name="L2">
+        <sprite>sprites\Floor2</sprite>
+        <sprite>sprites\Tree_fern</sprite>
+        <sprite>sprites\Frontwall3</sprite>
+        <sprite>sprites\Frontwall4</sprite>
+        <sprite>sprites\Frontwall5</sprite>
+        <sprite>sprites\Edge1</sprite>
+        <sprite>sprites\Edge2</sprite>
+      </sprites>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects"/>
+  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
